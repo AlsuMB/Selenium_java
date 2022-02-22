@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.CreatePollTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-10T12:55:40" hostname="Computer" time="13.188">
+  <properties/>
+  <testcase name="testLogin" classname="tests.CreatePollTest" time="13.188"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 2688
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1636548943.067][WARNING]: This version of ChromeDriver has not been tested with Chrome version 95.
+нояб. 10, 2021 3:55:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
